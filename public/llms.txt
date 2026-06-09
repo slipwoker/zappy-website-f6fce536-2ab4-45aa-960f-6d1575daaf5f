@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://-f6fce536.zappy5.app
+https://example.com
 מחפש חנות פרחים קרובה עם נגיעה אישית? פרח בר מציע זרי כלה מרהיבים, סידורים ייחודיים ושירות FTD אמין. בואו לפגוש את השפע, הריח והקסם שמחכים לכם בשכונה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-f6fce536.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-f6fce536.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-f6fce536.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -31,8 +31,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-f6fce536.zappy5.app
-- Endpoint: https://-f6fce536.zappy5.app/api/email/contact-form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -61,6 +61,6 @@ Florist
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-f6fce536.zappy5.app/sitemap.xml
-- Robots: https://-f6fce536.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-f6fce536.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

@@ -2,13 +2,13 @@
 
 A flower shop business seeking an online landing page presence. The specific identity, personality, and unique characteristics of the shop have not yet been described.
 
-Source: https://-f6fce536.zappy5.app
+Source: https://example.com
 
 ---
 
 ## זר חלומותיך מחכה מעבר לפינה — פרח בר
 
-URL: https://-f6fce536.zappy5.app
+URL: https://example.com
 Description: מחפש חנות פרחים קרובה עם נגיעה אישית? פרח בר מציע זרי כלה מרהיבים, סידורים ייחודיים ושירות FTD אמין. בואו לפגוש את השפע, הריח והקסם שמחכים לכם בשכונה.
 
 זר חלומותיך מחכה מעבר לפינה — פרח בר
@@ -564,7 +564,7 @@ Description: מחפש חנות פרחים קרובה עם נגיעה אישית?
 
 ## מדיניות פרטיות
 
-URL: https://-f6fce536.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -809,7 +809,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-f6fce536.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1063,7 +1063,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-f6fce536.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
